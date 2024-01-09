@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.722056b3.css",
+    "main.js": "/static/js/main.0d6e3546.js",
+    "static/media/dropbox_logo.png": "/static/media/dropbox_logo.be30a9e38965c9014425.png",
+    "index.html": "/index.html",
+    "main.722056b3.css.map": "/static/css/main.722056b3.css.map",
+    "main.0d6e3546.js.map": "/static/js/main.0d6e3546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722056b3.css",
+    "static/js/main.0d6e3546.js"
+  ]
+}
